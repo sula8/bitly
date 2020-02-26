@@ -17,5 +17,5 @@ python3 main.py bit.ly/2utThYq  # 0
 ```
 Запрос с валидной ссылкой в качестве аргумента вернёт укороченную ссылку.
 ```bash
-python3 main.py --link https://dvmn.org/modules/ # bit.ly/2utThYq
+python3 main.py https://dvmn.org/modules/ # bit.ly/2utThYq
 ```
